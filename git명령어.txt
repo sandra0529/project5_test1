@@ -7,3 +7,5 @@ git config user.name
 git config list
 git remote add origin https://github/com/sandra0529/project5_test1.git
 git push
+---------
+팀작업추가 
