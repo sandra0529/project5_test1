@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git commit -m "메시지"
+git config user.email
+git config user.name 
+git config list
+git remote add origin https://github/com/sandra0529/project5_test1.git
+git push
